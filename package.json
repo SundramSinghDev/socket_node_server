@@ -1,0 +1,29 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "description": "this is an example of node js socket server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "example",
+    "of",
+    "socket",
+    "node",
+    "js",
+    "using",
+    "heroku"
+  ],
+  "author": "john doe",
+  "license": "ISC",
+  "engines": {
+    "node": "10.19.0"
+  }
+}
